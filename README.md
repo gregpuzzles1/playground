@@ -1,4 +1,4 @@
-# new_sandbox
+# playground
 
 A learning sandbox repository containing test files and experiments for educational purposes.
 
